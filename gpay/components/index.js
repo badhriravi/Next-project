@@ -49,7 +49,7 @@ function App() {
             return { transactionState: 'SUCCESS'}
           }
         }
-        existingPaymentMethodRequired='false'
+        existingPaymentMethodRequired='false' 
         buttonColor='black'
         buttonType='Buy'
       />
